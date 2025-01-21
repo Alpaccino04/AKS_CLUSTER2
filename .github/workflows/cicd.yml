@@ -1,6 +1,6 @@
 name: 'Terraform infrastructure Deployment to Azure Cloud'
 
-# trigger
+# trigger this would also trigger others
 # =========
 on:
   push:
